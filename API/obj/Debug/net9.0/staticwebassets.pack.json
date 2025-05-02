@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\i_yas\\OneDrive\\Masaüstü\\Projects\\CSharp\\NET9\\e-commerce\\API\\wwwroot\\images\\Image1.jpg",
+      "PackagePath": "staticwebassets\\images\\Image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\i_yas\\OneDrive\\Masaüstü\\Projects\\CSharp\\NET9\\e-commerce\\API\\wwwroot\\images\\Image2.jpg",
+      "PackagePath": "staticwebassets\\images\\Image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\i_yas\\OneDrive\\Masaüstü\\Projects\\CSharp\\NET9\\e-commerce\\API\\wwwroot\\images\\Image3.jpg",
+      "PackagePath": "staticwebassets\\images\\Image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\i_yas\\OneDrive\\Masaüstü\\Projects\\CSharp\\NET9\\e-commerce\\API\\wwwroot\\images\\Image4.jpg",
+      "PackagePath": "staticwebassets\\images\\Image4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\i_yas\\OneDrive\\Masaüstü\\Projects\\CSharp\\NET9\\e-commerce\\API\\wwwroot\\images\\Image5.jpg",
+      "PackagePath": "staticwebassets\\images\\Image5.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

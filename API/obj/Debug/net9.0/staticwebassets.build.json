@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "Hash": "Q1LtT4/3IKR+I3aORquX7U8JPQlFhfpUKoN4osg7Kdo=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API\\wwwroot",
+      "Source": "API",
+      "ContentRoot": "C:\\Users\\i_yas\\OneDrive\\Masaüstü\\Projects\\CSharp\\NET9\\e-commerce\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\i_yas\\OneDrive\\Masaüstü\\Projects\\CSharp\\NET9\\e-commerce\\API\\wwwroot\\images\\Image1.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\i_yas\\OneDrive\\Masaüstü\\Projects\\CSharp\\NET9\\e-commerce\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/Image1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "otiwfxe90k",
+      "Integrity": "TNrZBdRrCyc2cs3Eicj74EMPNtAtFtoo5Wp+cUYrz48=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Image1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\i_yas\\OneDrive\\Masaüstü\\Projects\\CSharp\\NET9\\e-commerce\\API\\wwwroot\\images\\Image2.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\i_yas\\OneDrive\\Masaüstü\\Projects\\CSharp\\NET9\\e-commerce\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/Image2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sccqt4yjg9",
+      "Integrity": "DG730qER4CFewhojOQjLyPxojnXi6rFNpBQiCMxqgVQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Image2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\i_yas\\OneDrive\\Masaüstü\\Projects\\CSharp\\NET9\\e-commerce\\API\\wwwroot\\images\\Image3.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\i_yas\\OneDrive\\Masaüstü\\Projects\\CSharp\\NET9\\e-commerce\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/Image3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "otiwfxe90k",
+      "Integrity": "TNrZBdRrCyc2cs3Eicj74EMPNtAtFtoo5Wp+cUYrz48=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Image3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\i_yas\\OneDrive\\Masaüstü\\Projects\\CSharp\\NET9\\e-commerce\\API\\wwwroot\\images\\Image4.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\i_yas\\OneDrive\\Masaüstü\\Projects\\CSharp\\NET9\\e-commerce\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/Image4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sccqt4yjg9",
+      "Integrity": "DG730qER4CFewhojOQjLyPxojnXi6rFNpBQiCMxqgVQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Image4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\i_yas\\OneDrive\\Masaüstü\\Projects\\CSharp\\NET9\\e-commerce\\API\\wwwroot\\images\\Image5.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\i_yas\\OneDrive\\Masaüstü\\Projects\\CSharp\\NET9\\e-commerce\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/Image5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "otiwfxe90k",
+      "Integrity": "TNrZBdRrCyc2cs3Eicj74EMPNtAtFtoo5Wp+cUYrz48=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Image5.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/Image1.jpg",
+      "AssetFile": "C:\\Users\\i_yas\\OneDrive\\Masaüstü\\Projects\\CSharp\\NET9\\e-commerce\\API\\wwwroot\\images\\Image1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TNrZBdRrCyc2cs3Eicj74EMPNtAtFtoo5Wp+cUYrz48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 19:42:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TNrZBdRrCyc2cs3Eicj74EMPNtAtFtoo5Wp+cUYrz48="
+        }
+      ]
+    },
+    {
+      "Route": "images/Image1.otiwfxe90k.jpg",
+      "AssetFile": "C:\\Users\\i_yas\\OneDrive\\Masaüstü\\Projects\\CSharp\\NET9\\e-commerce\\API\\wwwroot\\images\\Image1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TNrZBdRrCyc2cs3Eicj74EMPNtAtFtoo5Wp+cUYrz48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 19:42:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "otiwfxe90k"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Image1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TNrZBdRrCyc2cs3Eicj74EMPNtAtFtoo5Wp+cUYrz48="
+        }
+      ]
+    },
+    {
+      "Route": "images/Image2.jpg",
+      "AssetFile": "C:\\Users\\i_yas\\OneDrive\\Masaüstü\\Projects\\CSharp\\NET9\\e-commerce\\API\\wwwroot\\images\\Image2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DG730qER4CFewhojOQjLyPxojnXi6rFNpBQiCMxqgVQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 19:42:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DG730qER4CFewhojOQjLyPxojnXi6rFNpBQiCMxqgVQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/Image2.sccqt4yjg9.jpg",
+      "AssetFile": "C:\\Users\\i_yas\\OneDrive\\Masaüstü\\Projects\\CSharp\\NET9\\e-commerce\\API\\wwwroot\\images\\Image2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DG730qER4CFewhojOQjLyPxojnXi6rFNpBQiCMxqgVQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 19:42:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sccqt4yjg9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Image2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DG730qER4CFewhojOQjLyPxojnXi6rFNpBQiCMxqgVQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/Image3.jpg",
+      "AssetFile": "C:\\Users\\i_yas\\OneDrive\\Masaüstü\\Projects\\CSharp\\NET9\\e-commerce\\API\\wwwroot\\images\\Image3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TNrZBdRrCyc2cs3Eicj74EMPNtAtFtoo5Wp+cUYrz48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 19:42:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TNrZBdRrCyc2cs3Eicj74EMPNtAtFtoo5Wp+cUYrz48="
+        }
+      ]
+    },
+    {
+      "Route": "images/Image3.otiwfxe90k.jpg",
+      "AssetFile": "C:\\Users\\i_yas\\OneDrive\\Masaüstü\\Projects\\CSharp\\NET9\\e-commerce\\API\\wwwroot\\images\\Image3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TNrZBdRrCyc2cs3Eicj74EMPNtAtFtoo5Wp+cUYrz48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 19:42:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "otiwfxe90k"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Image3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TNrZBdRrCyc2cs3Eicj74EMPNtAtFtoo5Wp+cUYrz48="
+        }
+      ]
+    },
+    {
+      "Route": "images/Image4.jpg",
+      "AssetFile": "C:\\Users\\i_yas\\OneDrive\\Masaüstü\\Projects\\CSharp\\NET9\\e-commerce\\API\\wwwroot\\images\\Image4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DG730qER4CFewhojOQjLyPxojnXi6rFNpBQiCMxqgVQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 19:42:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DG730qER4CFewhojOQjLyPxojnXi6rFNpBQiCMxqgVQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/Image4.sccqt4yjg9.jpg",
+      "AssetFile": "C:\\Users\\i_yas\\OneDrive\\Masaüstü\\Projects\\CSharp\\NET9\\e-commerce\\API\\wwwroot\\images\\Image4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DG730qER4CFewhojOQjLyPxojnXi6rFNpBQiCMxqgVQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 19:42:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sccqt4yjg9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Image4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DG730qER4CFewhojOQjLyPxojnXi6rFNpBQiCMxqgVQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/Image5.jpg",
+      "AssetFile": "C:\\Users\\i_yas\\OneDrive\\Masaüstü\\Projects\\CSharp\\NET9\\e-commerce\\API\\wwwroot\\images\\Image5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TNrZBdRrCyc2cs3Eicj74EMPNtAtFtoo5Wp+cUYrz48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 19:42:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TNrZBdRrCyc2cs3Eicj74EMPNtAtFtoo5Wp+cUYrz48="
+        }
+      ]
+    },
+    {
+      "Route": "images/Image5.otiwfxe90k.jpg",
+      "AssetFile": "C:\\Users\\i_yas\\OneDrive\\Masaüstü\\Projects\\CSharp\\NET9\\e-commerce\\API\\wwwroot\\images\\Image5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TNrZBdRrCyc2cs3Eicj74EMPNtAtFtoo5Wp+cUYrz48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 19:42:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "otiwfxe90k"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Image5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TNrZBdRrCyc2cs3Eicj74EMPNtAtFtoo5Wp+cUYrz48="
+        }
+      ]
+    }
+  ]
+}
