@@ -43,11 +43,7 @@ function ProductDetailsPage() {
               <TableRow>
                 <TableCell>Description</TableCell>
                 <TableCell>{product.description}</TableCell>
-              </TableRow>
-              <TableRow>
-                <TableCell>Price</TableCell>
-                <TableCell>{product.price}</TableCell>
-              </TableRow>
+              </TableRow>            
               <TableRow>
                 <TableCell>Stock</TableCell>
                 <TableCell>{product.stock}</TableCell>
