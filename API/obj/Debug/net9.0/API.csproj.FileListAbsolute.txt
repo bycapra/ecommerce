@@ -163,3 +163,4 @@ C:\Users\i_yas\OneDrive\Masaüstü\Projects\CSharp\NET9\e-commerce\API\obj\Debug
 C:\Users\i_yas\OneDrive\Masaüstü\Projects\CSharp\NET9\e-commerce\API\obj\Debug\net9.0\API.genruntimeconfig.cache
 C:\Users\i_yas\OneDrive\Masaüstü\Projects\CSharp\NET9\e-commerce\API\obj\Debug\net9.0\ref\API.dll
 C:\Users\i_yas\OneDrive\Masaüstü\Projects\CSharp\NET9\e-commerce\API\bin\Debug\net9.0\API.staticwebassets.runtime.json
+C:\Users\i_yas\OneDrive\Masaüstü\Projects\CSharp\NET9\e-commerce\API\obj\Debug\net9.0\API.sourcelink.json
