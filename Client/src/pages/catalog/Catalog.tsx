@@ -1,14 +1,14 @@
 import { useEffect, useState } from "react";
 import { IProduct } from "../../model/IProduct";
 import ProductList from "./ProductList";
+import requests from "../../api/requests";
 
 function CatalogPage(){
      const [products, setProducts] = useState<IProduct[]>([]);
     
       useEffect(() => {
-        fetch("http://localhost:5130/api/products")
-          .then((response) => response.json())
-          .then((data) => setProducts(data)).catch((e)=>console.log("Error: " + e));
+        requests.Catalog.list()          
+          .then((data) => setProducts(data)).catch((e)=>console.log("ProductListError: " + e));
       }, []);
 
 

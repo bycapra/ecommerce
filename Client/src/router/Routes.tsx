@@ -5,6 +5,7 @@ import AboutPage from "../pages/About";
 import { ContactPage } from "@mui/icons-material";
 import CatalogPage from "../pages/catalog/Catalog";
 import ProductDetailsPage from "../pages/catalog/ProductDetails";
+import ErrorPage from "../pages/Error";
 
 export const router = createBrowserRouter(
     [
@@ -17,6 +18,7 @@ export const router = createBrowserRouter(
                     {path:"about",element:<AboutPage/>},
                     {path:"contact",element:<ContactPage/>},
                     {path:"catalog",element:<CatalogPage/>},
+                    {path:"error",element:<ErrorPage/>},
                     {path:"catalog/:id",element:<ProductDetailsPage/>}                  
             ]
         }

@@ -2,6 +2,7 @@ import { CircularProgress, Divider, Grid, Table, TableBody, TableCell, TableCont
 import { useEffect, useState } from "react";
 import { useParams } from "react-router";
 import { IProduct } from "../../model/IProduct";
+import requests from "../../api/requests";
 
 function ProductDetailsPage() {
   //get id parameters
@@ -10,10 +11,9 @@ function ProductDetailsPage() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch(`http://localhost:5130/api/products/${id}`)
-      .then((response) => response.json())
+   id && requests.Catalog.details(parseInt(id))      
       .then((data) => setProduct(data))
-      .catch((error) => console.log("Hata: " + error))
+      .catch((error) => console.log("ProductDetailsError: " + JSON.stringify(error)))
       .finally(() => setLoading(false));
   }, [id]);
 
