@@ -1,9 +1,10 @@
-import { ErrorOutline } from "@mui/icons-material";
 import axios, { AxiosError, AxiosResponse } from "axios";
 import { toast } from "react-toastify";
+import { router } from "../router/Routes";
 
 axios.defaults.baseURL = "http://localhost:5130/api/";
 
+//Bu kısım aynı API tarafindaki middewarelar gibi calisir. Araya girer ve hatayi alir
 axios.interceptors.response.use(
   (response) => {
     return response;
@@ -19,10 +20,11 @@ axios.interceptors.response.use(
         break;
       case 404:
         //console.log("axiosDAta: " + JSON.stringify(data));
-        toast.error(data.title);
+        //toast.error(data.title);
+        router.navigate('/not-found');
         break;
       case 500:
-        toast.error(data.title);
+        router.navigate("/server-error",{state:{error:data,status:status}})
         break;
       default:
         break;
@@ -31,6 +33,7 @@ axios.interceptors.response.use(
   }
 );
 
+//burada da sorgular generic hale getirildi. Yukaridaki base url dikkate alinarak istekler gonderilebilir.
 const queries = {
   get: (url: string) =>
     axios.get(url).then((response: AxiosResponse) => response.data),
@@ -42,6 +45,7 @@ const queries = {
     axios.delete(url).then((response: AxiosResponse) => response.data),
 };
 
+//hatalari islemek icin generic yapi
 const Errors = {
     get400Error:()=> queries.get("/error/bad-request"),
     get401Error:()=> queries.get("/error/unauthorized"),
@@ -51,11 +55,13 @@ const Errors = {
 
 }
 
+//Catalog tarafindaki sorgular. bunlar daha sonra genisleyecek.
 const Catalog = {
   list: () => queries.get("products"),
   details: (id: number) => queries.get(`products/${id}`),
 };
 
+//request objesini disari aciyoruz
 const requests = {
   Catalog,Errors
 };

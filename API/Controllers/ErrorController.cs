@@ -24,7 +24,7 @@ public class ErrorController : ControllerBase
         return Unauthorized();  
     }
 
-     [HttpGet("validatior-error")]
+     [HttpGet("validation-error")]
     public IActionResult ValidationError(){
         ModelState.AddModelError("Validation Error 1","Validation 1 error details");
         return ValidationProblem();

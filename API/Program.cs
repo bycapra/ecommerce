@@ -9,7 +9,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
-builder.Services.AddDbContext<DataContext>(options=>{
+builder.Services.AddDbContext<DataContext>(options =>
+{
     var config = builder.Configuration;
     var connectionString = config.GetConnectionString("defaultConnection");
 
@@ -27,9 +28,12 @@ app.UseMiddleware<ExceptionHandlingMiddleware>();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
+    app.UseDeveloperExceptionPage();
     app.MapOpenApi();
-    app.UseSwaggerUI(options=>{
-        options.SwaggerEndpoint("/openapi/v1.json","Demo API");
+
+    app.UseSwaggerUI(options =>
+    {
+        options.SwaggerEndpoint("/openapi/v1.json", "Demo API");
     });
 }
 
@@ -37,7 +41,7 @@ app.UseHttpsRedirection();
 
 app.UseStaticFiles();
 
-app.UseCors(opt=>opt.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin());
+app.UseCors(opt => opt.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin());
 
 app.UseAuthorization();
 

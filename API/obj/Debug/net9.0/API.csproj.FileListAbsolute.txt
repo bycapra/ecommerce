@@ -1,5 +1,6 @@
 C:\Users\i_yas\OneDrive\Masaüstü\Projects\CSharp\NET9\e-commerce\API\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\i_yas\OneDrive\Masaüstü\Projects\CSharp\NET9\e-commerce\API\bin\Debug\net9.0\appsettings.json
+C:\Users\i_yas\OneDrive\Masaüstü\Projects\CSharp\NET9\e-commerce\API\bin\Debug\net9.0\API.staticwebassets.runtime.json
 C:\Users\i_yas\OneDrive\Masaüstü\Projects\CSharp\NET9\e-commerce\API\bin\Debug\net9.0\API.staticwebassets.endpoints.json
 C:\Users\i_yas\OneDrive\Masaüstü\Projects\CSharp\NET9\e-commerce\API\bin\Debug\net9.0\API.exe
 C:\Users\i_yas\OneDrive\Masaüstü\Projects\CSharp\NET9\e-commerce\API\bin\Debug\net9.0\API.deps.json
@@ -146,6 +147,7 @@ C:\Users\i_yas\OneDrive\Masaüstü\Projects\CSharp\NET9\e-commerce\API\obj\Debug
 C:\Users\i_yas\OneDrive\Masaüstü\Projects\CSharp\NET9\e-commerce\API\obj\Debug\net9.0\API.csproj.CoreCompileInputs.cache
 C:\Users\i_yas\OneDrive\Masaüstü\Projects\CSharp\NET9\e-commerce\API\obj\Debug\net9.0\API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\i_yas\OneDrive\Masaüstü\Projects\CSharp\NET9\e-commerce\API\obj\Debug\net9.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\i_yas\OneDrive\Masaüstü\Projects\CSharp\NET9\e-commerce\API\obj\Debug\net9.0\API.sourcelink.json
 C:\Users\i_yas\OneDrive\Masaüstü\Projects\CSharp\NET9\e-commerce\API\obj\Debug\net9.0\scopedcss\bundle\API.styles.css
 C:\Users\i_yas\OneDrive\Masaüstü\Projects\CSharp\NET9\e-commerce\API\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\i_yas\OneDrive\Masaüstü\Projects\CSharp\NET9\e-commerce\API\obj\Debug\net9.0\staticwebassets.development.json
@@ -162,5 +164,3 @@ C:\Users\i_yas\OneDrive\Masaüstü\Projects\CSharp\NET9\e-commerce\API\obj\Debug
 C:\Users\i_yas\OneDrive\Masaüstü\Projects\CSharp\NET9\e-commerce\API\obj\Debug\net9.0\API.pdb
 C:\Users\i_yas\OneDrive\Masaüstü\Projects\CSharp\NET9\e-commerce\API\obj\Debug\net9.0\API.genruntimeconfig.cache
 C:\Users\i_yas\OneDrive\Masaüstü\Projects\CSharp\NET9\e-commerce\API\obj\Debug\net9.0\ref\API.dll
-C:\Users\i_yas\OneDrive\Masaüstü\Projects\CSharp\NET9\e-commerce\API\bin\Debug\net9.0\API.staticwebassets.runtime.json
-C:\Users\i_yas\OneDrive\Masaüstü\Projects\CSharp\NET9\e-commerce\API\obj\Debug\net9.0\API.sourcelink.json
